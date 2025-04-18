@@ -1,0 +1,16 @@
+{
+  "name": "tutorial-nodejs",
+  "version": "1.0.0",
+  "main": "10-fs-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "loadash": "^1.0.0"
+  }
+}
